@@ -45,7 +45,7 @@ conda activate fcr-env
 
 ## BibTex
 
-<!-- ```bibtex
+```bibtex
 @inproceedings{
 mao2024learning,
 title={Learning Identifiable Factorized Causal Representations of Cellular Responses},
@@ -54,4 +54,4 @@ booktitle={Advances in Neural Information Processing Systems},
 year={2024},
 note={\url{https://github.com/Genentech/fcr}
 }
-``` -->
+
