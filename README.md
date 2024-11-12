@@ -12,7 +12,7 @@ Official code for the NeurIPS 2024 paper [ Learning Identifiable Factorized Caus
 [Haiyi Mao](https://harrymao1011.github.io/),
 [Romain Lopez](https://romain-lopez.github.io/),
 [Kai Liu](),
-[Jan-Christian H\"{u}tter] (https://www.jchuetter.com/),
+[Jan-Christian H\"{u}tter](https://www.jchuetter.com/),
 [David Richmond] (),
 [Panayiotis (Takis) Benos](),
 [Lin Qiu](https://lquvatexas.github.io/),
@@ -43,6 +43,7 @@ conda activate fcr-env
 ```shell
 # train
 ./main.sh &
+test_sciPlex.ipynb contains the steps to perform the analysis
 ```
 
 ## BibTex
